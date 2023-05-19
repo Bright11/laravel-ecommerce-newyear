@@ -1,3 +1,5 @@
+![Ecommerce](https://github.com/Bright11/laravel-ecommerce-newyear/assets/34070274/98241a1b-1d2c-45c7-8bc2-85e9f397992e)
+
 ## laravel ecommerce project
 - this is an advance laravel project which is stil under development
 - this project will be updated as soon as i'm done
